@@ -1,0 +1,2 @@
+# House-Sale-prediction
+# Data Loading and Preprocessing  We consider the same notebook used in the labs, containing house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.  https://www.kaggle.com/harlfoxem/housesalesprediction  For each house we know 18 house features (e.g., number of bedrooms, number of bathrooms, etc.) plus its price, that is what we would like to predict.
